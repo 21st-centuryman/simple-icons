@@ -397,6 +397,11 @@
             "guidelines": "https://www.afterpay.com/en-AU/business/resources/marketing/brand-tools/brand-guidelines"
         },
         {
+            "title": "Agda",
+            "hex": "FFFFFF",
+            "source": "https://github.com/agda/agda/blob/6fa1ceaa75b7903cb5b7a8e2e9eeddb2e0446f4a/doc/user-manual/agda.svg"
+        },
+        {
             "title": "Agora",
             "hex": "099DFD",
             "source": "https://github.com/AgoraIO/Docs-Source/blob/849872dd0496bada0a2dceecb3f79663e3b2d323/assets/images/others/agora-logo.svg"
